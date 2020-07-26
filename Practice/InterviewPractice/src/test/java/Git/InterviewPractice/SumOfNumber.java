@@ -1,4 +1,4 @@
-package Git.Practice;
+package Git.InterviewPractice;
 
 
 import org.testng.Assert;
@@ -17,13 +17,16 @@ public class SumOfNumber {
   @Test
   public void posativeTest() {
 	  Assert.assertEquals(10, sumOfGivenInteger(1234));
+	  System.out.println("Posativve Test Passed");
   }
   @Test
   public void negativeTest() {
 	  Assert.assertNotEquals(1, sumOfGivenInteger(1234));
+	  System.out.println("Negative Test Passed");
   }
   @Test
   public void singletInput() {
 	  Assert.assertEquals(2,sumOfGivenInteger(2));
+	  System.out.println("Signgle Digit Test Passed");
   }
 }

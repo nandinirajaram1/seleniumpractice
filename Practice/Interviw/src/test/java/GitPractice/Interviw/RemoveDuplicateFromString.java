@@ -1,6 +1,5 @@
 package GitPractice.Interviw;
 
-
 import org.testng.Assert;
 import org.testng.annotations.Test;
 

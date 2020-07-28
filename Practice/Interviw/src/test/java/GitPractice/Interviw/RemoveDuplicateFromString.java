@@ -15,7 +15,6 @@ public class RemoveDuplicateFromString {
 		return newStr;
 	}
 	
-
   @Test
   public void negativeTest() {
 	  Assert.assertNotEquals("regression", removeDuplicate("regression"));

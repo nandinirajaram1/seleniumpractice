@@ -1,25 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="26" started-at="2020-07-27T22:06:26Z" finished-at="2020-07-27T22:06:26Z">
+  <suite name="Default suite" duration-ms="21" started-at="2020-07-28T00:42:58Z" finished-at="2020-07-28T00:42:58Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="26" started-at="2020-07-27T22:06:26Z" finished-at="2020-07-27T22:06:26Z">
-      <class name="GitPractice.Interviw.RemoveDuplicateFromString">
-        <test-method status="PASS" signature="negativeTest()[pri:0, instance:GitPractice.Interviw.RemoveDuplicateFromString@ec756bd]" name="negativeTest" duration-ms="8" started-at="2020-07-27T22:06:26Z" finished-at="2020-07-27T22:06:26Z">
+    <test name="Default test" duration-ms="21" started-at="2020-07-28T00:42:58Z" finished-at="2020-07-28T00:42:58Z">
+      <class name="GitPractice.Interviw.NewTest">
+        <test-method status="PASS" signature="f()[pri:0, instance:GitPractice.Interviw.NewTest@ec756bd]" name="f" duration-ms="6" started-at="2020-07-28T00:42:58Z" finished-at="2020-07-28T00:42:58Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- negativeTest -->
-        <test-method status="PASS" signature="nullTest()[pri:0, instance:GitPractice.Interviw.RemoveDuplicateFromString@ec756bd]" name="nullTest" duration-ms="1" started-at="2020-07-27T22:06:26Z" finished-at="2020-07-27T22:06:26Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- nullTest -->
-        <test-method status="PASS" signature="posativeTest()[pri:0, instance:GitPractice.Interviw.RemoveDuplicateFromString@ec756bd]" name="posativeTest" duration-ms="1" started-at="2020-07-27T22:06:26Z" finished-at="2020-07-27T22:06:26Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- posativeTest -->
-      </class> <!-- GitPractice.Interviw.RemoveDuplicateFromString -->
+        </test-method> <!-- f -->
+      </class> <!-- GitPractice.Interviw.NewTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

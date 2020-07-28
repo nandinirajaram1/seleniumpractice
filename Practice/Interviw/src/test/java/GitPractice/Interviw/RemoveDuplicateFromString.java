@@ -14,6 +14,7 @@ public class RemoveDuplicateFromString {
 	    }
 		return newStr;
 	}
+	
 
   @Test
   public void negativeTest() {

@@ -2,7 +2,7 @@ package GitPractice.Interviw;
 
 import org.testng.annotations.Test;
 
-public class NewTest {
+public class NewTest1 {
   @Test
   public void f() {
 	  System.out.println("Test");
